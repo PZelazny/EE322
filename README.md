@@ -12,4 +12,4 @@ Last semester I was on co-op in Maryland, so here is a photo I took when I was v
 
 Worked in the production of deployable wireless communication systems which are capable of simultaneously collecting 10 different forms of IoT communication signals
 
-Operated wire bonding, flip chip, SMT processes, and more
+Reached operator proficiency on wire bonding, flip chip, SMT processes, and more
